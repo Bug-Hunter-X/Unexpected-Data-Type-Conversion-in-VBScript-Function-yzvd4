@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in VBScript related to implicit data type conversion.  The `f` function showcases how VBScript's loose typing can cause unexpected behavior when comparing and assigning values. The `bug.vbs` file shows the problematic code.  The solution (`bugSolution.vbs`) clarifies the type handling.
